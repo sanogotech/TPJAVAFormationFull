@@ -1,4 +1,4 @@
-Créer un programme de révision sur 7 jours pour maîtriser les bases de Java en utilisant la "méthode des 20 heures" de Josh Kaufman nécessite de structurer l'apprentissage de manière efficace et pratique. L'objectif est de maximiser l'apprentissage en un temps limité en utilisant des séances de travail de 2 à 3 heures par jour. Ce programme est conçu pour les débutants qui travaillent en parallèle et couvre les concepts fondamentaux de Java.
+Créer un programme de révision sur 7 jours pour maîtriser les bases de Java en utilisant la "méthode des 20 heures" de Josh Kaufman nécessite de structurer l'apprentissage de manière efficace et pratique. L'objectif est de maximiser l'apprentissage en un temps limité en **utilisant des séances de travail de 2 à 3 heures par jour**. Ce programme est conçu pour les débutants qui travaillent en parallèle et couvre les concepts fondamentaux de Java.
 
 Voici un plan détaillé pour la semaine, y compris les concepts à aborder chaque jour, des exercices pratiques, et des ressources supplémentaires pour approfondir vos connaissances.
 
